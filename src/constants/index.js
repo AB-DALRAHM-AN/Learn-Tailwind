@@ -10,14 +10,17 @@ export const navLinks = [
 
 export const shoes = [
     {
+        key: 1,
         thumbnail: thumbnailShoe1,
         bigShoe: bigShoe1,
     },
     {
+        key: 2,
         thumbnail: thumbnailShoe2,
         bigShoe: bigShoe2,
     },
     {
+        key: 3,
         thumbnail: thumbnailShoe3,
         bigShoe: bigShoe3,
     },
